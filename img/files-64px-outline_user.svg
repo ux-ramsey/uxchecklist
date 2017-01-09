@@ -1,0 +1,12 @@
+<svg class="nc-icon outline" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" width="64px" height="64px" viewBox="0 0 64 64">
+<g transform="translate(0, 0)">
+<polyline data-cap="butt" fill="none" stroke="#0f0f0f" stroke-width="2" stroke-miterlimit="10" points="44,2 44,14 56,14 " stroke-linejoin="miter" stroke-linecap="butt"></polyline>
+<polygon fill="none" stroke="#0f0f0f" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" points="44,2 8,2 8,62 
+	56,62 56,14 " stroke-linejoin="miter"></polygon>
+<path data-color="color-2" fill="none" stroke="#b3c126" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M45,48H19
+	v-4.102c0-1.416,0.741-2.723,1.959-3.444C22.86,39.328,26.309,38,32,38s9.14,1.328,11.041,2.454C44.259,41.175,45,42.482,45,43.898
+	V48z" stroke-linejoin="miter"></path>
+<path data-color="color-2" fill="none" stroke="#b3c126" stroke-width="2" stroke-linecap="square" stroke-miterlimit="10" d="M25,25
+	c0-3.866,3.134-7,7-7s7,3.134,7,7s-3.134,8-7,8S25,28.866,25,25z" stroke-linejoin="miter"></path>
+</g>
+</svg>
